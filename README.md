@@ -15,7 +15,7 @@
 <p><p>
 <p><p>
 
-## 📌 Overview
+## 📌 Overview.
 
 Easyreadme is a project that simplifies README creation by generating visually stunning READMEs using pre-designed templates and AI. It supports generating READMEs for JavaScript/TypeScript, Rust, Java, Go, PHP, and Python projects.
 It relies on a wide range of technologies and libraries including React, Tailwind CSS, Tiptap, OpenAI, and more.
