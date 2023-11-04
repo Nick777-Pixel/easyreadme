@@ -74,7 +74,7 @@ export function FormRepository() {
           required
           name='urlRepository'
           className='h-11 pl-9 focus-visible:border-gray-500 focus-visible:outline-none focus-visible:ring-0 focus-visible:ring-offset-0 placeholder:text-muted-foreground/60'
-          placeholder='https://github.com/xavimondev/readme-creator'
+          placeholder='https://github.com/'
         />
       </div>
       <Button

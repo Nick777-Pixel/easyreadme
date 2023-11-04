@@ -17,7 +17,7 @@ export default function Home() {
           </Link>
           <div className='flex gap-2 items-center'>
             <Link
-              href='https://github.com/xavimondev/readme-creator'
+              href='https://github.com/'
               aria-label='Go to Repository'
               target='_blank'
               rel='noreferrer'
@@ -201,13 +201,13 @@ export default function Home() {
           <span className='text-gray-500 dark:text-white/80 text-base sm:text-lg'>
             Built by
             <a
-              href='https://twitter.com/xavimonp'
+              href='https://twitter.com/nicholast1998'
               rel='noopener'
               target='_blank'
               className='underline underline-offset-4'
             >
               {' '}
-              xavimon
+              CT
             </a>
           </span>
         </div>
